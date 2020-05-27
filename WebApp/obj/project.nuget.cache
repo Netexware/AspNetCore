@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6sKPCArIG7SF38pL/dQ3FMtuIlujXHW1qP4z1AwFOinKeX393TNFPcoHGqBXGD/Z8rXa/60M+AqtyuEBV+uoCA==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\azure\\AzureDevOps\\AspNetCore\\WebApp\\WebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
